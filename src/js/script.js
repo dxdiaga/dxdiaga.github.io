@@ -10,7 +10,7 @@ function openApp() {
     theWindow.style.display = 'block';
     appShortcut.style.display = 'none';
     theWindow.style.width = "50%";
-    theWindow.style.height = "60%";
+    theWindow.style.height = "65%";
 }
 
 function maximazeApp() {
